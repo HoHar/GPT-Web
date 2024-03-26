@@ -10,7 +10,7 @@ import { GoogleTagManager } from "@next/third-parties/google";
 const serverConfig = getServerSideConfig();
 
 export const metadata: Metadata = {
-  title: "EIAI",
+  title: "诶埃",
   description: "Your personal AI.",
   viewport: {
     width: "device-width",
